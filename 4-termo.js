@@ -11,4 +11,4 @@ Termometro.prototype.actualizar = function actualizar(grados) {
     }
 }
 let termometro1 = new Termometro();
-termometro1.actualizar(15)
+termometro1.actualizar(25)

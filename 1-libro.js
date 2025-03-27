@@ -1,5 +1,5 @@
-function libro (titulo, autor){
-    
+//*Constructor
+function libro (titulo, autor){  
     this.titulo = titulo;
     this.autor = autor;
     this.prestado = false;
